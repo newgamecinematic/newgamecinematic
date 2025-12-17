@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-![GitHub Snake](https://raw.githubusercontent.com/<newgamecinematic>/<newgamecinematic>/output/ocean.gif)
+![snake gif](https://github.com/<newgamecinematic>/<newgamecinematic>/blob/output/ocean.gif?raw=true)
+
+![snake svg](https://github.com/<newgamecinematic>/<newgamecinematic>/blob/output/github-contribution-grid-snake.svg?raw=true)
+
+![snake dark](https://github.com/<newgamecinematic>/<newgamecinematic>/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
 
 - 🔭 I’m currently working on ...
 
