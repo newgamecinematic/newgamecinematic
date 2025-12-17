@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![GitHub Snake](https://raw.githubusercontent.com/<newgamecinematic>/<newgamecinematic>/output/ocean.gif)
+
 <!--
 **newgamecinematic/newgamecinematic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
