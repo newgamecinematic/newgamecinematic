@@ -17,7 +17,7 @@ I care about *feel*, clean systems, and worlds that make sense.
 
 <br>
 
-[![X](https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=x&logoColor=white)]([<YOUR_X_LINK>](https://x.com/Dino_IndieGame))
+[![X](https://img.shields.io/badge/X-Profile-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Dino_IndieGame)
 [![Blog](https://img.shields.io/badge/Blog-Devlog-0A66C2?style=for-the-badge&logo=notion&logoColor=white)](<YOUR_BLOG_LINK>)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<YOUR_EMAIL>)
 
