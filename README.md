@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm <YOUR_NAME_OR_HANDLE>
+# Thumbs_UP_DINO
 
 ### Indie Game Developer building small-but-sharp games with Unity.
 
