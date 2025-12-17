@@ -34,30 +34,6 @@ I care about *feel*, clean systems, and worlds that make sense.
 
 <br>
 
-## Featured Projects
-
-### In Progress: **Neo-Ether** (Psychological Noir Turn-based RPG)
-> A dystopia where attention becomes currency — emotions, viewership, and power collide.
-
-- **Genre**: Turn-based RPG / narrative systems
-- **Core**: streaming-based society, meta-layer world structure, lore consistency
-- **Goals**: solid systems + believable world rules + strong tone
-
-<br>
-
-### In Progress: **Territory War-inspired Turn-based Stickman Battle**
-> Tactical 4v4 turn-based battles with “Fortress-like” aiming and strategic positioning.
-
-- **Core**: turn loop + terrain/position play + readable UI feedback
-- **Goal**: clean code structure first, then expand content
-
-<br>
-
-### Side Project: **Space Revolver** (Puzzle)
-> A small puzzle project to explore mechanics-driven storytelling.
-
-<br>
-
 ## Technical Overview
 
 <div align="center">
