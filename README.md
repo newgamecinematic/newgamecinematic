@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://github.com/Platane/snk">
-  <img src="https://github.com/newgamecinematic/newgamecinematic/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://github.com/DevBawky/DevBawky/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </a>
 
 <br>
